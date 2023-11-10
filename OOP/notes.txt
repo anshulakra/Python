@@ -4,3 +4,5 @@ Objects:- Object is an instance of the Class. Objects are variables that contain
 Constructor :- A special method that is called when an Objects is created. __init__
 self :- It represents the instance of class
 Encapsulation :- It is a mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.
+Inheritance :- It allows us to define a class that inherits all the methods and properties from another class.
+The super() function is used to give access to methods and properties of a parent or sibling class.
