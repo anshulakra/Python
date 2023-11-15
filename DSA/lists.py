@@ -52,7 +52,7 @@ Searching for an element in a List
 tempList = ['nokia','samsung','mi','apple','vivo','oppo']
 # in oprator
 print("mi" in tempList)
-liner search
+#liner search
 def searchinElement(list,target):
     for i in range(len(list)):
         if list[i] == target:
